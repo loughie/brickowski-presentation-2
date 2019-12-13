@@ -15,7 +15,7 @@
     "raw-loader": "^1.0.0"
   },
   "dependencies": {
-    "npm": "^6.4.0",
+    "npm": "^6.13.4",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "styled-components": "^4.2.0"
